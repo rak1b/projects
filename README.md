@@ -7,11 +7,22 @@ Dreamer || Creator || Collaborator || Developer
 
 </p>
 
-### ⚡ Some Of My Projects ⚡
+<br>
+<br>
+<p align="center">
+⚡ Some Of My Projects ⚡
+</p>
+
+<br>
+<br>
+
 
 ## ⚡ ShopOnline
 
 Fully Functional Ecommerce Website Made With Django
+<br>
+<br>
+
 
 ![shoponline-short](https://user-images.githubusercontent.com/50355854/127045715-52b29d83-3940-4db7-9135-ee69de35e082.gif)
 
@@ -26,9 +37,16 @@ Fully Functional Ecommerce Website Made With Django
 
 ## Code : [ShopOnline](https://github.com/rak1b/ShopOnline/tree/master/Django/ShopOnline)
 
+<br>
+<br>
+<br>
+
+
 ## ⚡ The Royal Restaurant
 
 Responsive static restaurant website
+<br>
+
 
 ![royal-restaurant](https://user-images.githubusercontent.com/50355854/127050751-4ba7013b-2403-4adf-9d14-51776c6b76ce.gif)
 
@@ -37,4 +55,4 @@ Responsive static restaurant website
 - Fully Responsive
 - Made with html,css,bootstrap
 
-## Code : [ShopOnline](https://github.com/rak1b/ShopOnline/tree/master/Django/ShopOnline)
+## Code : [The Royal Restaurant](https://github.com/rak1b/The-Royal-Restaurant)
