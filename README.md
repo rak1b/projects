@@ -1,18 +1,8 @@
-### Hi there, I'm [Md Rakibul Islam][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+### Hi there, I'm Md Rakibul Islam 👋
+## I'm a  Dreamer || Creator || Collaborator || Developer
 
 
-<img alt="ShopOnline" src="https://user-images.githubusercontent.com/50355854/127033554-d8e14c46-8f88-438c-a67e-1e3cd119c657.mp4"> </img>
+- ⚡ ShopOnline : Fully Functional Ecommerce Website Made With Django
 ![shoponline-short](https://user-images.githubusercontent.com/50355854/127045715-52b29d83-3940-4db7-9135-ee69de35e082.gif)
 
 
