@@ -135,6 +135,6 @@ Responsive Image Searcher app made with react
 - Responsive
 - Made with react
 
-## Code : [Quick Note](https://github.com/rak1b/)
+## Code : [Image Searcher](https://github.com/rak1b/)
 
 
