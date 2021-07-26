@@ -104,3 +104,20 @@ Responsive Routine web app made with react
 ## Code : [Routine App](https://github.com/rak1b/)
 
 
+## ⚡ Quick Note
+Responsive Sticky note app made with react
+<br>
+
+
+
+![Quick-note-react](https://user-images.githubusercontent.com/50355854/127058384-a4974c56-3ce1-4998-95bb-47ae4cd201d2.gif)
+![quick-note-img](https://user-images.githubusercontent.com/50355854/127058595-e9dc6d61-73c6-4f45-8c0f-b80c79f0b6cc.PNG)
+
+
+## Features
+
+- Responsive
+- Made with react
+
+## Code : [Quick Note](https://github.com/rak1b/)
+
